@@ -1,4 +1,4 @@
-module github.com/diyism/goAndView
+module github.com/wailovet/goAndView
 
 go 1.13
 
